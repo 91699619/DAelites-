@@ -1,9 +1,3 @@
-USE DAELITES
-
-
-
-USE DAELITES
-
 
 
 --Retriving total number of passengers
