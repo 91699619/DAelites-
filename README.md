@@ -1,3 +1,3 @@
-# DAelites-
-Elite Superstore Data  analysis
-Titanic Survival Analysis
+# Elite Superstore Data  analysis
+
+# Titanic Survival Analysis
