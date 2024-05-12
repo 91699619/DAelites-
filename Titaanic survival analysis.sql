@@ -1,3 +1,8 @@
+/*Objective:
+To perform comprehensive analysis and visualization of the Titanic dataset using advanced SQL techniques to derive actionable insights and trends. 
+Tools:
+For the analysis, I used the Microsoft SQL Server Management Studio.*/
+
 
 
 --Retriving total number of passengers
