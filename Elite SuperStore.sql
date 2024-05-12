@@ -1,4 +1,4 @@
-/* •Write SQL queries to retrieve the total number of orders, customers, and products in the dataset.*/
+/* â€¢Write SQL queries to retrieve the total number of orders, customers, and products in the dataset.*/
 
 SELECT 
 		COUNT (DISTINCT(Customer_ID)) AS total_customers,
@@ -10,7 +10,7 @@ FROM
 /*The total customers is 1130, total products 913 and the total orders is 1952.*/
 
 
-/* •Calculate and display the total sales, average discount, and profit for each product category.
+/* â€¢Calculate and display the total sales, average discount, and profit for each product category.
 	Order the results by total sales in descending order.*/
 
 ----Solution
@@ -30,7 +30,7 @@ And furniture has the least profit.*/
 
 
 
-/* •Identify the top 10 customers with the highest total sales.
+/* â€¢Identify the top 10 customers with the highest total sales.
 Calculate the average order value for each customer segment
 */
 
